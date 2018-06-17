@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "derekpedersen-195304",
+  "private_key_id": "3420cebe5302bdcf5f711c0e09b701dcc25d507d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0a4SG5ekX2wFB\ni/12oXc1+wwuUz0kGHlQPt0U77Od/5n1WwvN+P02kbWMBeb6FgUFQRLyudggPU96\nK41q/ibCtY6MUbufP7jssp92bpMd2wtfpMAOfrNHuoHjU3sgOqbLIArlRmWaF4cY\n9rgqybTpTda1YT2YWvDF3gLZgH/7H1lHQdPyc+VdCMzjA+uRRzmp8ux6Q9Iq339L\nDI6uQDNeQtaMpUCg3v7KhF4ktKr+DpUec3TQwzj3b73Wle/z+qcniTer142Omx1H\nP0kyii2x13UzVdHXW4A7idvk/vQeopV3lZS3xSoR+OF7x2vGlu7dnwNlsKmYCK75\nqo3HLuF1AgMBAAECggEAD6t26zB0ujmvNj4uWWtUqz+Oo0dffA8UGkAbe4IGG6bj\nfEfYEp+Zfm/RUMQCd54J+ZbZSnORrdslV/sIYU6Jl0elhdJjdUVXjldFOkgIRwOL\nTVdFxvyCHay5M0FA5F+ztNinmZovoN6CQUzMWgsCx3CXQVGcw+rCFq1dmf5rHyhI\nQMr6ZQVFDsS/vpuWzeYhEh4Kqpv9PYDOVG9jgKpeOHQiVDTV1cnvQNe+D9D9dvQk\ncw9YY4k/dRCTFivr838gbHttx4w8yJ/AKiy10tKNgWGnx1L4D6WFlwwTRstTGwk5\nnXIkEq8gjeltMVHFJRfjJjPz4wvrd19+9h6Z+jc5UQKBgQDyxOgTGUBiSkmbopbX\n5DGs35h0O17mnHhh3kL34krsvMUaLxhJ9n3ITgkGNKUkJEotRPAmBrIAsx6dZSFa\nxGhIOPF8AS0WzZFQx3NQoy6udSXTugod4OwcgVQzjminqoC4m4X1WSP4ejS6Zd7m\nxlkRumrQwrxcyplyZCizPCJkqwKBgQC+QLiZFxo7eH1qTzU+bP9J2x/JWh6s4iUZ\nOzy6mD4BmgJgx7rtMVD5jfo5McRzPnCZLbdS+jUQw6+RelCv1mHNDKSVktQBmW+W\ncS905J0leBlhvp053ygXyIbeXAwMe35Nia1T9Cn0BQ6sFtq8djXv7uSWWNfxQ60y\nneRvdwaSXwKBgDmgvkpSUzNB2SlFtjL3a0dTKHhm44cwm273+MOpBwodYVhu14Av\nL/qNc5zygEUNDEKku7D7I+QAoQLRz9IhD3QdeE1sZgykrZsUTW5V3i3xhxI0dlRT\nYRj/JkK6ymMKmVW5LVppV52TPNMGfZwgd2I680ItB9OrEDPUTMkHPE7TAoGBALVc\naRy24zDR+WxAOZdavDmhgzmkiR1xLsBQseGGg4VvVNkBTPYTTwe2ClQ/VvAtE5VR\n+TJGhhOHF3Rsz0Hv8adQaAyVvTgRFkipeP3LeOphBIEi/ipOyp9xbu/Fe07i4lHz\n7qDbXqrZr1TpLHb/kQc6CfowkxnQ0+guj7aaFk+tAoGBAOeXUfyU6A3hnlk8QrBw\naMUB1zxBOUs9DE+8IcDQpDMQkQsu34czoDVrQ6bz5N/NYH87Vi8g5eRyDBArWenZ\nGB0Bsy18Xr7V6PTQ03By8Ccs1Z4TlJs5J0z0eCi/WhiL1kd9OkrvlHz4wPR1U06R\nBgn/WvqA44mtDmH38jcXI+M+\n-----END PRIVATE KEY-----\n",
+  "client_email": "kube-cert-manager@derekpedersen-195304.iam.gserviceaccount.com",
+  "client_id": "107319599576121264764",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kube-cert-manager%40derekpedersen-195304.iam.gserviceaccount.com"
+}
