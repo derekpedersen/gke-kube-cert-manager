@@ -10,8 +10,14 @@ secret:
 certificate:
 	kubectl create -f ./kube-cert-manager/certificate.yaml
 
+certificate-example:
+	kubectl create -f ./kube-cert-manager/certificate-example.yaml
+
 rbac:
 	kubectl apply -f ./kube-cert-manager/rbac.yaml
+
+service:
+	kubectl apply -f ./kube-cert-manager/service.yaml
 
 kubernetes: certificate deploy
 
