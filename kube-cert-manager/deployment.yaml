@@ -16,6 +16,13 @@ spec:
       containers:
         - name: kube-cert-manager
           image: jlcrow/kube-cert-manager:0.5.0
+          resources:
+            limits:
+              cpu: "50m"
+              memory: "100Mi"
+            requests:
+              cpu: "10m"
+              memory: "25Mi"
           args:
             - "-data-dir=/var/lib/cert-manager"
             #- "-acme-url=https://acme-staging.api.letsencrypt.org/directory"
